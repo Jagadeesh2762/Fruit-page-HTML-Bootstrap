@@ -1,0 +1,13 @@
+img{
+  width: 23%;
+   height: 200px;
+   padding-top: 10px;
+}
+.cards{
+  width: 23%;
+ transition: 0.5s ease;         
+}
+.cards:hover{
+    z-index: 1;
+    transform: scale(1.2);
+} 
